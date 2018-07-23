@@ -3,6 +3,7 @@
   "version": "1.4.1",
   "license": "MIT",
   "description": "Basic angular app w/ BITBOX bindings",
+  "author": "Gabriel Cardona @ Bitcoin.com",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -11,7 +12,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "author": "Bitcoin.com",
   "bugs": {
     "url": "https://github.com/bigearth/bitbox-scaffold-angular/issues"
   },
