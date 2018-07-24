@@ -6,9 +6,11 @@
   * `npm install bitbox-cli --global`
 2. Scaffold an Angular app w/ BITBOX web bindings
   * `bitbox new myApp --scaffold angular`
-3. Install dependencies
+3. `cd` in to the newly created app
+  * `cd myApp`
+4. Install dependencies
   * `npm install`
-4. Start the app
+5. Start the app
   * `npm start`
-5. Open a browser to `http://localhost:3000/`
-6. Win
+6. Open a browser to `http://localhost:3000/`
+7. Win
