@@ -1,11 +1,11 @@
-## BITBOX Scaffold Angular
+## Wormhole SDK Scaffold Angular
 
 ## Setup
 
-1. [Install `bitbox-cli`](https://www.npmjs.com/package/bitbox-cli) globally
-    * `npm install bitbox-cli --global`
-2. Scaffold an Angular app w/ BITBOX web bindings
-    * `bitbox new myApp --scaffold angular`
+1. [Install `wormholecash`](https://www.npmjs.com/package/wormholecash) globally
+    * `npm install wormholecash --global`
+2. Scaffold an Angular app w/ Wormhole SDK web bindings
+    * `Wormhole SDK new myApp --scaffold angular`
 3. `cd` in to the newly created app
     * `cd myApp`
 4. Install dependencies

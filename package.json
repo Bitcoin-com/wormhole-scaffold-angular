@@ -1,8 +1,8 @@
 {
-  "name": "bitbox",
-  "version": "1.5.1",
+  "name": "wormhole-scaffold-angular",
+  "version": "0.2.0",
   "license": "MIT",
-  "description": "Basic angular app w/ BITBOX bindings",
+  "description": "Basic angular app w/ Wormhole SDK bindings",
   "author": "Gabriel Cardona @ Bitcoin.com",
   "scripts": {
     "ng": "ng",
@@ -39,7 +39,7 @@
     "@types/jasmine": "~2.8.3",
     "@types/jasminewd2": "~2.0.2",
     "@types/node": "~6.0.60",
-    "bitbox-cli": "1.5.1",
+    "wormholecash": "0.2.0",
     "codelyzer": "^4.0.1",
     "jasmine-core": "~2.8.0",
     "jasmine-spec-reporter": "~4.2.1",
