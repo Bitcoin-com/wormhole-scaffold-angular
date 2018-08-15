@@ -5,7 +5,7 @@
 1. [Install `wormholecash`](https://www.npmjs.com/package/wormholecash) globally
     * `npm install wormholecash --global`
 2. Scaffold an Angular app w/ Wormhole SDK web bindings
-    * `Wormhole SDK new myApp --scaffold angular`
+    * `wormhole new myApp --scaffold angular`
 3. `cd` in to the newly created app
     * `cd myApp`
 4. Install dependencies
