@@ -28,6 +28,7 @@
     "@angular/router": "^5.2.0",
     "@angular/service-worker": "^5.2.0",
     "core-js": "^2.4.1",
+    "mocha": "^3.5.3",
     "node-sass": "^4.9.0",
     "rxjs": "^5.5.6",
     "zone.js": "^0.8.19"
@@ -65,7 +66,6 @@
     "eslint-plugin-standard": "^4.0.0",
     "node-mocks-http": "^1.7.0",
     "nodemon": "^1.8.1",
-    "mocha": "^3.5.3",
     "supertest": "^2.0.0",
     "prettier": "^1.14.2"
   }
