@@ -1,6 +1,6 @@
 {
   "name": "wormhole-scaffold-angular",
-  "version": "0.6.0",
+  "version": "0.7.1",
   "license": "MIT",
   "description": "Basic angular app w/ Wormhole SDK bindings",
   "author": "Gabriel Cardona @ Bitcoin.com",
@@ -40,7 +40,7 @@
     "@types/jasmine": "~2.8.3",
     "@types/jasminewd2": "~2.0.2",
     "@types/node": "^10.5.2",
-    "wormholecash": "0.6.0",
+    "wormholecash": "0.7.1",
     "codelyzer": "^4.0.1",
     "jasmine-core": "~2.8.0",
     "jasmine-spec-reporter": "~4.2.1",
